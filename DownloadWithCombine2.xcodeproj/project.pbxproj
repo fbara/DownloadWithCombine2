@@ -11,6 +11,8 @@
 		AD40D877276E905000935538 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD40D876276E905000935538 /* ContentView.swift */; };
 		AD40D879276E905000935538 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AD40D878276E905000935538 /* Assets.xcassets */; };
 		AD40D87C276E905000935538 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AD40D87B276E905000935538 /* Preview Assets.xcassets */; };
+		AD40D883276E90F400935538 /* DownloadWithEscapingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD40D882276E90F400935538 /* DownloadWithEscapingBootcamp.swift */; };
+		AD40D885276E9DF000935538 /* DownloadWithCombine.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD40D884276E9DF000935538 /* DownloadWithCombine.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		AD40D876276E905000935538 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		AD40D878276E905000935538 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AD40D87B276E905000935538 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		AD40D882276E90F400935538 /* DownloadWithEscapingBootcamp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DownloadWithEscapingBootcamp.swift; sourceTree = "<group>"; };
+		AD40D884276E9DF000935538 /* DownloadWithCombine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadWithCombine.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,9 +56,11 @@
 			isa = PBXGroup;
 			children = (
 				AD40D874276E905000935538 /* DownloadWithCombine2App.swift */,
+				AD40D882276E90F400935538 /* DownloadWithEscapingBootcamp.swift */,
 				AD40D876276E905000935538 /* ContentView.swift */,
 				AD40D878276E905000935538 /* Assets.xcassets */,
 				AD40D87A276E905000935538 /* Preview Content */,
+				AD40D884276E9DF000935538 /* DownloadWithCombine.swift */,
 			);
 			path = DownloadWithCombine2;
 			sourceTree = "<group>";
@@ -138,7 +144,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				AD40D877276E905000935538 /* ContentView.swift in Sources */,
+				AD40D885276E9DF000935538 /* DownloadWithCombine.swift in Sources */,
 				AD40D875276E905000935538 /* DownloadWithCombine2App.swift in Sources */,
+				AD40D883276E90F400935538 /* DownloadWithEscapingBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
