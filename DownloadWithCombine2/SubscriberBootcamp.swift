@@ -52,6 +52,7 @@ class SubscriberViewModel: ObservableObject {
                 self.count += 1
             }
             .store(in: &cancellables)
+        
     }
     
     func addButtonSubscriber() {
@@ -71,7 +72,7 @@ class SubscriberViewModel: ObservableObject {
 
 struct SubscriberBootcamp: View {
     
-    @StateObject var vm = SubscriberViewModel()
+    @StateObject var vm = SubscriberViewModel()    
     
     var body: some View {
         

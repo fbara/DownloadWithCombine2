@@ -11,7 +11,8 @@ import SwiftUI
 struct DownloadWithCombine2App: App {
     var body: some Scene {
         WindowGroup {
-            SubscriberBootcamp()
+            FileManagerBootcamp()
+//            SubscriberBootcamp()
 //            TimerBootcamp()
 //            ContentView()
 //            DownloadWithCombine()

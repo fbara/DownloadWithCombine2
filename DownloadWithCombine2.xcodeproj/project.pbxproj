@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AD38C177277D367C00EB4248 /* FileManagerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD38C176277D367C00EB4248 /* FileManagerBootcamp.swift */; };
+		AD38C179277F9D9900EB4248 /* CacheBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD38C178277F9D9900EB4248 /* CacheBootcamp.swift */; };
 		AD40D875276E905000935538 /* DownloadWithCombine2App.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD40D874276E905000935538 /* DownloadWithCombine2App.swift */; };
 		AD40D877276E905000935538 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD40D876276E905000935538 /* ContentView.swift */; };
 		AD40D879276E905000935538 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AD40D878276E905000935538 /* Assets.xcassets */; };
@@ -18,6 +20,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		AD38C176277D367C00EB4248 /* FileManagerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FileManagerBootcamp.swift; sourceTree = "<group>"; };
+		AD38C178277F9D9900EB4248 /* CacheBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CacheBootcamp.swift; sourceTree = "<group>"; };
 		AD40D871276E905000935538 /* DownloadWithCombine2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DownloadWithCombine2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AD40D874276E905000935538 /* DownloadWithCombine2App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadWithCombine2App.swift; sourceTree = "<group>"; };
 		AD40D876276E905000935538 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -67,6 +71,8 @@
 				AD40D884276E9DF000935538 /* DownloadWithCombine.swift */,
 				ADADD54A277440B3001B9807 /* TimerBootcamp.swift */,
 				ADDE79B7277A6F6100FAF446 /* SubscriberBootcamp.swift */,
+				AD38C176277D367C00EB4248 /* FileManagerBootcamp.swift */,
+				AD38C178277F9D9900EB4248 /* CacheBootcamp.swift */,
 			);
 			path = DownloadWithCombine2;
 			sourceTree = "<group>";
@@ -154,7 +160,9 @@
 				ADDE79B8277A6F6100FAF446 /* SubscriberBootcamp.swift in Sources */,
 				AD40D885276E9DF000935538 /* DownloadWithCombine.swift in Sources */,
 				AD40D875276E905000935538 /* DownloadWithCombine2App.swift in Sources */,
+				AD38C177277D367C00EB4248 /* FileManagerBootcamp.swift in Sources */,
 				AD40D883276E90F400935538 /* DownloadWithEscapingBootcamp.swift in Sources */,
+				AD38C179277F9D9900EB4248 /* CacheBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
